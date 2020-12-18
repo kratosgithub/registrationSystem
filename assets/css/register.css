@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6 avr. 2018, 19:37:58
+    Author     : Ndozeng junior
+*/
+/*header*/
+h1{ text-align: center; margin-top: 30px; height: 20px;}
+h4{ text-align: center;}
+.center{ align-content: center;}
+.red{ color: red;}
+.black{ color: black;}
+.space-6{ height: 20px;}
+
+/*body*/
+.group-box{ margin-left: 400px; align-content: center;}
+button{ margin-left: 100px;}
+
+/*footer*/
+a{ font-size: 16px; margin-left: 150px}

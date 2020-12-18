@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5 avr. 2018, 19:45:50
+    Author     : Ndozeng junior
+*/
+/* body */
+button{
+  margin-left: 250px; vertical-align: text-top;
+}
+/*class*/
+.group-box{
+   margin-top: 80px; margin-left: 500px; align-content: center;
+}
+.panel-title{
+   text-align: center;
+}
+.panel-footer{
+   display: inline-block; width: 400px;
+}
+.space-6{height: 10px;}
+#user-signup-link, #forgot-password-link{
+    display: inline-block; vertical-align: top;
+}
+#user-signup-link{width: 60%;}
